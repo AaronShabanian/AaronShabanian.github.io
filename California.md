@@ -1,3 +1,3 @@
 
-  <h1>California Coronavirus Data</h1>
+  <Title>California Coronavirus Data</Title>
 
