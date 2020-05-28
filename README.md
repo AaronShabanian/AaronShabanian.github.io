@@ -23,4 +23,16 @@
 <br>
 
 <h4> State Data </h4>
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRQTMrJfoOBroiSy810e__dInixlvGAA4CUWdTQq1_0gZRqffjG9RGg-pdTaVqut_rR1_GCrg2B98fA/pubchart?oid=837938382&format=interactive', 'Alabama', 'width=600,height=371');">Alabama</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vQpxx9Bywe-aMKbDBSZsUEgpKwfiZ77KH8U6R8ZqGqS5FgyllK4F08h75xFkZg_1BwOZsdT9L3RvZ4e/pubchart?oid=156019386&format=interactive', 'Alaska', 'width=600,height=371');">Alaska</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vTrod5HaGmqxTRnSe4OOVrnxW870BJw7INCxpCj2Xfl1rKY3_rgvaq_9Q8hkxVa1gStaXfF3_NpH1dY/pubchart?oid=1155378071&format=interactive', 'Arizona', 'width=600,height=371');">Arizona</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5PHGvjUC06IT0R8zwnEK_tau8AuKmjzOj3z80rCTat4KbcnmmQZiy_uUCWgT4BBszsodWJowgjq5i/pubchart?oid=37556038&format=interactive', 'Arkansas', 'width=600,height=371');">Arkansas</a></h6>
+
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRonWfueDo6Uh1BUMCuLQwYTyQb66eSh9cD5aYKfbcNmI65uhSMrJ4dukxfxyJkFMGx04VcmkQhQQDX/pubchart?oid=2112309523&format=interactive', 'California', 'width=600,height=371');">California</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vR5FnGwiCayULs4V44JV6fyiFqJZIMJAn8dZ0TcEel1u2vXPNNUlyij16gtCPH5rEFopfVrfQNzGQqA/pubchart?oid=724343051&format=interactive', 'Colorado', 'width=600,height=371');">Colorado</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSSm46R4ysUnBLz1xEpJhfgI6TiZVVvmlx-f0AAdQCsMux08QirqAHWE97OWkaTNZvRzL8ux49IHD3x/pubchart?oid=21165560&format=interactive', 'Connecticut', 'width=600,height=371');">Connecticut</a></h6>
