@@ -1,6 +1,16 @@
 
 
 # USA Covid-19 Data 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167862552-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167862552-1');
+</script>
+
 <h6> All daily charts are based off of a 7 day rolling average
 <h6>Last Updated: 5/27/2020 7:56pm </h6>
 
