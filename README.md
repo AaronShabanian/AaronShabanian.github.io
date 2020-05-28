@@ -23,4 +23,4 @@
 <br>
 
 <h4> State Data </h4>
-<h6><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRonWfueDo6Uh1BUMCuLQwYTyQb66eSh9cD5aYKfbcNmI65uhSMrJ4dukxfxyJkFMGx04VcmkQhQQDX/pubchart?oid=2112309523&format=interactive">California </a></h6>
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRonWfueDo6Uh1BUMCuLQwYTyQb66eSh9cD5aYKfbcNmI65uhSMrJ4dukxfxyJkFMGx04VcmkQhQQDX/pubchart?oid=2112309523&format=interactive', 'California', 'width=600,height=371');">Test</a></h6>
