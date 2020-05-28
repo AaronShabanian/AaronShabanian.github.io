@@ -23,6 +23,8 @@
 <br>
 
 <h4> State Data </h4>
+<h5> Last Updated 5/28/20 3:13pm PDT. More states to be added soon<h5>
+<h5> Updated Weekly <h5>
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRQTMrJfoOBroiSy810e__dInixlvGAA4CUWdTQq1_0gZRqffjG9RGg-pdTaVqut_rR1_GCrg2B98fA/pubchart?oid=837938382&format=interactive', 'Alabama', 'width=600,height=371');">Alabama</a></h6>
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vQpxx9Bywe-aMKbDBSZsUEgpKwfiZ77KH8U6R8ZqGqS5FgyllK4F08h75xFkZg_1BwOZsdT9L3RvZ4e/pubchart?oid=156019386&format=interactive', 'Alaska', 'width=600,height=371');">Alaska</a></h6>
