@@ -46,3 +46,5 @@
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vToK64mwCBrJn-3pPIYaRJoGIIukAxdSgLiDThZocPYztPk73BpWuxYmEBJ-rrQKABr0VH_0xGlOS6y/pubchart?oid=557812552&format=interactive', 'Georgia', 'width=600,height=371');">Georgia</a></h6>
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vToK64mwCBrJn-3pPIYaRJoGIIukAxdSgLiDThZocPYztPk73BpWuxYmEBJ-rrQKABr0VH_0xGlOS6y/pubchart?oid=557812552&format=interactive', 'Georgia', 'width=600,height=371');">Georgia</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSQEkswb8-zalspUZS8QvVaZYcdT6mMEW5ExJgqpsatAUX4vhJoi9lQlgZzrTRFOOHAZ5y04MxW6jJ-/pubchart?oid=1273373672&format=interactive', 'Hawaii', 'width=600,height=371');">Hawaii</a></h6>
