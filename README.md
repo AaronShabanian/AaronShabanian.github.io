@@ -60,3 +60,7 @@
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vTx2-aS4BzeNdL-GQIF1ROTO5JwIvASbENbjR4oUaNU8pMGmLGeQyN1GG8j0bomLsv06uD_u5tAlwXt/pubchart?oid=1828027351&format=interactive', 'Kansas', 'width=600,height=371');">Kansas</a></h6>
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vQkaxOpcOLRBKDOdJU9o-2AxFGmCpFuNhtP6pQ7FYgpEqfsZkAC35p4wZNKcnhr9AwuAbvPitSwtmLx/pubchart?oid=821561588&format=interactive', 'Kentucky', 'width=600,height=371');">Kentucky</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSqdtNsme9mmd4Uws8ZDGOnjR6sE3-HpgLm6mS4_btqDPw1cORtkXECBKMirEKWmu9zGioPCjSlD91n/pubchart?oid=523512650&format=interactive', 'Louisianna', 'width=600,height=371');">Louisianna</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRnpNuWhZyfArc2m-UN0RS4NZyulRnt3MFjSwZDmRPId8-Uii2PyMF9r82haRyhCfK3Dwrl53tcTu9o/pubchart?oid=474551697&format=interactive', 'Maine', 'width=600,height=371');">Maine</a></h6>
