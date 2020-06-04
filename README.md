@@ -50,3 +50,13 @@
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSQEkswb8-zalspUZS8QvVaZYcdT6mMEW5ExJgqpsatAUX4vhJoi9lQlgZzrTRFOOHAZ5y04MxW6jJ-/pubchart?oid=1273373672&format=interactive', 'Idaho', 'width=600,height=371');">Idaho</a></h6>
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vTGDvop0gfyMshKHxSauX0MlEAMaPOtHCM-Vnr2x6YqsHBKTVEJ9t5m8Ysgi6i9qMCVWCPn3JOZ6huS/pubchart?oid=398511888&format=interactive', 'Illinois', 'width=600,height=371');">Illinois</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRF8UfjZJjRy7H6UE4mr5i2vPPNQOVClqH9QZAhFDqPm3FA_jo8lDkFdDVx2X1TkfUMWQBBhdOtCBQw/pubchart?oid=1934953113&format=interactive', 'Indiana', 'width=600,height=371');">Indiana</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vS3Txr4icsMoty2E_08qs6Bo9oYg3640Fk4poxN8E91HrV7DvqU8QqkLIZQn9VNuPZR8-T6r8FM0xkt/pubchart?oid=536041986&format=interactive', 'Iowa', 'width=600,height=371');">Iowa</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vTx2-aS4BzeNdL-GQIF1ROTO5JwIvASbENbjR4oUaNU8pMGmLGeQyN1GG8j0bomLsv06uD_u5tAlwXt/pubchart?oid=1828027351&format=interactive', 'Kansas', 'width=600,height=371');">Kansas</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vTx2-aS4BzeNdL-GQIF1ROTO5JwIvASbENbjR4oUaNU8pMGmLGeQyN1GG8j0bomLsv06uD_u5tAlwXt/pubchart?oid=1828027351&format=interactive', 'Kansas', 'width=600,height=371');">Kansas</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vQkaxOpcOLRBKDOdJU9o-2AxFGmCpFuNhtP6pQ7FYgpEqfsZkAC35p4wZNKcnhr9AwuAbvPitSwtmLx/pubchart?oid=821561588&format=interactive', 'Kentucky', 'width=600,height=371');">Kentucky</a></h6>
