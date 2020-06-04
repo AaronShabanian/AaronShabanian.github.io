@@ -23,31 +23,14 @@
 <br>
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'pill',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'pay',
-          
-      },
-      createOrder: function(data, actions) {
-          return actions.order.create({
-              purchase_units: [{
-                  amount: {
-                      value: '2'
-                  }
-              }]
-          });
-      },
-      onApprove: function(data, actions) {
-          return actions.order.capture().then(function(details) {
-              alert('Transaction completed by ' + details.payer.name.given_name + '!');
-          });
-      }
-  }).render('#paypal-button-container');
-</script>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="6A4AWXGVD5F5L" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 <br>
 <h3> State Data </h3>
 <h5> Last Updated 6/3/20 3:29pm PDT. More states to be added soon<h5>
