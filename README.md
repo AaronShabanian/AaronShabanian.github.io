@@ -9,11 +9,11 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-167862552-1');
-                                                                         </script>
-                                                                        <div id="paypal-button-container"></div>
-                                                                         <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
-                                                                       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                                                                   <input type="hidden" name="cmd" value="_donations" />
+</script>
+<div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations" />
 <input type="hidden" name="business" value="6A4AWXGVD5F5L" />
 <input type="hidden" name="currency_code" value="USD" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
