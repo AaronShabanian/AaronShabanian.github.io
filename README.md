@@ -38,3 +38,11 @@
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vR5FnGwiCayULs4V44JV6fyiFqJZIMJAn8dZ0TcEel1u2vXPNNUlyij16gtCPH5rEFopfVrfQNzGQqA/pubchart?oid=724343051&format=interactive', 'Colorado', 'width=600,height=371');">Colorado</a></h6>
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSSm46R4ysUnBLz1xEpJhfgI6TiZVVvmlx-f0AAdQCsMux08QirqAHWE97OWkaTNZvRzL8ux49IHD3x/pubchart?oid=21165560&format=interactive', 'Connecticut', 'width=600,height=371');">Connecticut</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vQjtN95bfbAnK71x4_5qTIQSXQw3Vwm-bL4wQgkYdEYqBloTDxOyLYnWYl2F8m9BbMInTEqGrYMys94/pubchart?oid=337068911&format=interactive', 'Delaware', 'width=600,height=371');">Delaware</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSA0bYgZYhJRVGoEWO-dBuLqrt1TR283gGi6MifPTB-V-qFb50xJmCy87Yp33jEJyO76ga1O6ESJ_4S/pubchart?oid=1631889270&format=interactive', 'Florida', 'width=600,height=371');">Florida</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vToK64mwCBrJn-3pPIYaRJoGIIukAxdSgLiDThZocPYztPk73BpWuxYmEBJ-rrQKABr0VH_0xGlOS6y/pubchart?oid=557812552&format=interactive', 'Georgia', 'width=600,height=371');">Georgia</a></h6>
+
+<h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vToK64mwCBrJn-3pPIYaRJoGIIukAxdSgLiDThZocPYztPk73BpWuxYmEBJ-rrQKABr0VH_0xGlOS6y/pubchart?oid=557812552&format=interactive', 'Georgia', 'width=600,height=371');">Georgia</a></h6>
