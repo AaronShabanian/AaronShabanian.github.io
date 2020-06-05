@@ -33,7 +33,6 @@
 <br>
 <p>Disclaimer: All data is collected from CovidTracking.com</p>
 <br>
-</p>
 
 <br>
 <h3> State Data </h3>
