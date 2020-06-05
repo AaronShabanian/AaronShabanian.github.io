@@ -10,6 +10,8 @@
 
   gtag('config', 'UA-167862552-1');
 </script>
+
+
 <p style="text-align:right;">
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
@@ -21,7 +23,7 @@
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 </p>
-<br>
+
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average
   <h6> Updated Daily </h6>
