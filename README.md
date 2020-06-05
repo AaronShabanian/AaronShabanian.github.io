@@ -22,6 +22,7 @@
 </form>
 </p>
 <br>
+<p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average
   <h6> Updated Daily </h6>
 <h6>Last Updated: 6/4/2020 3:03pm pdt </h6>
@@ -32,7 +33,7 @@
 <br>
 <p>Disclaimer: All data is collected from CovidTracking.com</p>
 <br>
-
+</p>
 
 <br>
 <h3> State Data </h3>
