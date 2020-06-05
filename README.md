@@ -10,6 +10,7 @@
 
   gtag('config', 'UA-167862552-1');
 </script>
+<p style="text-align:right;">
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -19,6 +20,7 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</p>
 <br>
 <h6> All daily charts are based off of a 7 day rolling average
   <h6> Updated Daily </h6>
