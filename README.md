@@ -11,6 +11,12 @@
   gtag('config', 'UA-167862552-1');
 </script>
 
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+</script>
+<script src="https://contextual.media.net/dmedianet.js?cid=8CU1OOJ43" async="async"></script>
 
 <p style="text-align:right;">
 <div id="paypal-button-container"></div>
@@ -31,6 +37,18 @@
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
 <br>
+  <div id="896247347">
+    <script type="text/javascript">
+        try {
+            window._mNHandle.queue.push(function (){
+                window._mNDetails.loadTag("896247347", "300x250", "896247347");
+            });
+        }
+        catch (error) {}
+    </script>
+</div>
+  <br>
+  <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
 <br>
 <p>Disclaimer: All data is collected from CovidTracking.com</p>
@@ -80,4 +98,3 @@
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRnpNuWhZyfArc2m-UN0RS4NZyulRnt3MFjSwZDmRPId8-Uii2PyMF9r82haRyhCfK3Dwrl53tcTu9o/pubchart?oid=474551697&format=interactive', 'Maine', 'width=600,height=371');">Maine</a></h6>
 
-<script data-ad-client="ca-pub-9371724929988937" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
