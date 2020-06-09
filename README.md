@@ -11,6 +11,9 @@
   gtag('config', 'UA-167862552-1');
 </script>
 
+<meta name="propeller" content="c67469779396ee135446ef68fa131fc4">
+
+
 <p style="text-align:right;">
 <div id="paypal-button-container"></div>
 <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
