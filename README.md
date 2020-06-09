@@ -87,4 +87,4 @@
 
 <script src="https://propu.sh/pfe/current/tag.min.js?z=3357755" data-cfasync="false" async></script>
 
-//graizoah.com/afu.php?zoneid=3357761
+<a href="//graizoah.com/afu.php?zoneid=3357761">AD</a>
