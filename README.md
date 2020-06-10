@@ -82,6 +82,3 @@
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vSqdtNsme9mmd4Uws8ZDGOnjR6sE3-HpgLm6mS4_btqDPw1cORtkXECBKMirEKWmu9zGioPCjSlD91n/pubchart?oid=523512650&format=interactive', 'Louisianna', 'width=600,height=371');">Louisianna</a></h6>
 
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRnpNuWhZyfArc2m-UN0RS4NZyulRnt3MFjSwZDmRPId8-Uii2PyMF9r82haRyhCfK3Dwrl53tcTu9o/pubchart?oid=474551697&format=interactive', 'Maine', 'width=600,height=371');">Maine</a></h6>
-
-<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',3357741,document.body||document.documentElement)</script>
-
