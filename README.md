@@ -85,6 +85,3 @@
 
 <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',3357741,document.body||document.documentElement)</script>
 
-<script src="https://propu.sh/pfe/current/tag.min.js?z=3357755" data-cfasync="false" async></script>
-
-<a href="//graizoah.com/afu.php?zoneid=3357761">AD</a>
