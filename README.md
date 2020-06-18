@@ -42,7 +42,7 @@
 
 <br>
 <h3> State Data </h3>
-<h5> Last Updated 6/10/20 4:11pm PDT. <h5>
+<h5> Last Updated 6/17/20 4:11pm PDT. <h5>
 <h5> Updated Weekly <h5>
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRQTMrJfoOBroiSy810e__dInixlvGAA4CUWdTQq1_0gZRqffjG9RGg-pdTaVqut_rR1_GCrg2B98fA/pubchart?oid=837938382&format=interactive', 'Alabama', 'width=600,height=371');">Alabama</a></h6>
 
