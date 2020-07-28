@@ -31,9 +31,15 @@
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average.
   <h6> Updated Daily </h6>
-<h6>Last Updated: 7/26/2020 5:11pm pdt. </h6>
+<h6>Last Updated: 7/27/2020 5:11pm pdt. </h6>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
+  <br>
+  <h4> Current Fatality Projections</h4>
+  <h5> 3 day forcast <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat"> </h5>
+  <h5> 7 day forcast <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat"> </h5>
+  <h5> 14 day forcast <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Down"> </h5>
+  <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
 <br>
