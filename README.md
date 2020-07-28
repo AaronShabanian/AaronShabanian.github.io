@@ -36,7 +36,7 @@
 <br>
   <br>
   <h4> Current Fatality Projections</h4>
-  <h5> 3 day forcast <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat" style="width:100px;height:100px;> </h5>
+  <h5> 3 day forcast <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat" style="width:100px;height:100px"> </h5>
   <h5> 7 day forcast <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat"> </h5>
   <h5> 14 day forcast <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Down"> </h5>
   <br>
