@@ -37,7 +37,7 @@
   <br>
   <h4> Current Fatality Projections</h4>
   <h5> 3 day forcast: Flat +0.96% <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast: Slightly Lower -7.69% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px> </h5>
+  <h5> 7 day forcast: Slightly Lower -7.69% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <h5> 14 day forcast: Slightly Lower -9.62% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
