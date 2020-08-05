@@ -31,14 +31,14 @@
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average.
   <h6> Updated Daily </h6>
-<h6>Last Updated: 8/4/2020 3:11pm pdt. </h6>
+<h6>Last Updated: 8/5/2020 4:05pm pdt. </h6>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
   <br>
   <h4> Current Fatality Projections</h4>
-  <h5> 3 day forcast: Flat -0.94% <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast: Slightly Lower -9.27% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
-  <h5> 14 day forcast: Lower -11.64% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 3 day forcast: Flat -1.80% <img src="https://image.flaticon.com/icons/svg/54/54982.svg" alt="Flat" style="width:25px;height:25px"> </h5>
+  <h5> 7 day forcast: Slightly Lower -8.24% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 14 day forcast: Lower -14.69% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
