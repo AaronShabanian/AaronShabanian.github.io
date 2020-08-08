@@ -31,14 +31,14 @@
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average.
   <h6> Updated Daily </h6>
-<h6>Last Updated: 8/7/2020 3:31pm pdt. </h6>
+<h6>Last Updated: 8/8/2020 4:13pm pdt. </h6>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
   <br>
   <h4> Current Fatality Projections</h4>
-  <h5> 3 day forcast: Slightly Lower -7.41% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast: Slightly Lower -7.31% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
-  <h5> 14 day forcast: Significantly Lower -19.01% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 3 day forcast: Slightly Lower -7.79% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
+  <h5> 7 day forcast: Slightly Lower -6.44% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 14 day forcast: Significantly Lower -18.07% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
