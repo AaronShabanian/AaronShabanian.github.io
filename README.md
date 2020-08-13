@@ -36,9 +36,10 @@
 <br>
   <br>
   <h4> Current Fatality Projections</h4>
-  <h5> 3 day forcast: Slightly Lower -6.14% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast: Slightly Lower -9.88% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
-  <h5> 14 day forcast: Significantly Lower -18.80% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> Editors Note: There have been many recent data issues due to a reporting glitch in California and the Hurricane in florida. Because of this, the projections for The projections for the next week may not be as accurate. As the data reporting is becoming back to normal, we expect the model to self correct as it is doing right now. 
+  <h5> 3 day forcast: Lower -9.48% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
+  <h5> 7 day forcast: Significantly Lower -16.3% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 14 day forcast: Significantly Lower -18.60% <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
