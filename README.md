@@ -31,7 +31,7 @@
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average.
   <h6> Updated Daily </h6>
-<h6>Last Updated: 8/23/2020 3:40pm pdt. </h6>
+<h6>Last Updated: 8/24/2020 4:44pm pdt. </h6>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
   <br>
@@ -48,7 +48,7 @@
 
 <br>
 <h3> State Data </h3>
-<h5> Last Updated 8/5/20 4:05pm PDT. <h5>
+<h5> Last Updated 8/5/20 4:05pm PDT. Sorry for the delay with state data, should be updated soon <h5>
 <h5> Updated Weekly <h5>
 <h6><a href="javascript:window.open('https://docs.google.com/spreadsheets/d/e/2PACX-1vRQTMrJfoOBroiSy810e__dInixlvGAA4CUWdTQq1_0gZRqffjG9RGg-pdTaVqut_rR1_GCrg2B98fA/pubchart?oid=837938382&format=interactive', 'Alabama', 'width=600,height=371');">Alabama</a></h6>
 
