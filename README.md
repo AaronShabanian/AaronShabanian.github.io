@@ -31,14 +31,14 @@
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average.
   <h6> Updated Daily </h6>
-<h6>Last Updated: 8/29/2020 5:43pm pdt. </h6>
+<h6>Last Updated: 9/1/2020  4:01pm pdt. </h6>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
   <br>
   <h4> Current Fatality Projections</h4>
-  <h5> 3 day forcast: Slightly Lower -15.13% (785 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast:  Lower -22.38% (718 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
-  <h5> 14 day forcast: Significantly Lower -24.86% (695 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 3 day forcast: Slightly Lower -16.96% (744 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
+  <h5> 7 day forcast:  Lower -21.43% (704 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 14 day forcast: Significantly Lower -22.43% (695 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
