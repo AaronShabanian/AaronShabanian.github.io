@@ -53,7 +53,7 @@
 
 <h6><a href="javascript:window.open('https://covidtracking.com/data/state/alaska', 'Alaska', 'width=600,height=371');">Alaska</a></h6>
 
-<h6><a href="javascript:window.open(https://covidtracking.com/data/state/arizona', 'Arizona', 'width=600,height=371');">Arizona</a></h6>
+<h6><a href="javascript:window.open('https://covidtracking.com/data/state/arizona', 'Arizona', 'width=600,height=371');">Arizona</a></h6>
 
 <h6><a href="javascript:window.open('https://covidtracking.com/data/state/arkansas', 'Arkansas', 'width=600,height=371');">Arkansas</a></h6>
 
