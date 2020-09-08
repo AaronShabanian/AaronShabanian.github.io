@@ -35,7 +35,7 @@
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
   <br>
-  <h4> Current Fatality Projections</h4> </h5>
+  <h4> Current Fatality Projections</h4> 
   <h5> Today's 7 day average: 720 daily deaths </h5>
   <h5> 3 day forcast:  Flat +0.42% (723 daily deaths) <img src="https://image.flaticon.com/icons/svg/109/109617.svg" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
   <h5> 7 day forcast:  Flat -0.69% (715 daily deaths) <img src="https://image.flaticon.com/icons/svg/109/109617.svg" alt="Slightly Down" style="width:25px;height:25px"> </h5>
