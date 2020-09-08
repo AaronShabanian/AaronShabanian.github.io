@@ -36,9 +36,9 @@
 <br>
   <br>
   <h4> Current Fatality Projections</h4>
-  <h5> 3 day forcast:  Lower -14.03% (717 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast:  Lower -14.75% (711 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
-  <h5> 17 day forcast: Lower -17.15% (691 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 3 day forcast:  Lower -10.19% (730 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
+  <h5> 7 day forcast:  Lower -11.75% (711 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 17 day forcast: Lower -14.87% (691 daily deaths) <img src="https://cdn2.iconfinder.com/data/icons/minimalist-arrows-set/100/ARROW-expand_diagonal_down-right_arrow-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
