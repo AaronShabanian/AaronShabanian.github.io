@@ -31,7 +31,7 @@
 <p style="text-align:center;">
 <h6> All daily charts are based off of a 7 day rolling average.
   <h6> Updated Daily </h6>
-<h6>Last Updated: 9/16/2020  7:06pm pdt. </h6>
+<h6>Last Updated: 9/20/2020  7:06pm pdt. </h6>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=705871937&amp;format=interactive"></iframe>
 <br>
   The recently wild swings in the 7 day average for deaths and cases is due to the labor day weekend data reporting trends. The data is expected to settle back to normalcy the next week as there is normal data reporting again. 
