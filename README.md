@@ -36,9 +36,9 @@
 
   <br>
   <h4> Current Fatality Projections</h4> 
-  <h5> 3 day forcast:  Higher  <img src="https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DiagonalArrowUpRight-512.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
-  <h5> 7 day forcast:  Higher  <img src="https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DiagonalArrowUpRight-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
-  <h5> 17 day forcast:  Higher  <img src="https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DiagonalArrowUpRight-512.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 3 day forcast:  Flat  <img src="https://cdn1.iconfinder.com/data/icons/streamline-keyboard/60/cell-8-2-240.png" alt="Slightly Lower" style="width:25px;height:25px"> </h5>
+  <h5> 7 day forcast:  Flat  <img src="https://cdn1.iconfinder.com/data/icons/streamline-keyboard/60/cell-8-2-240.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
+  <h5> 17 day forcast:  Flat  <img src="https://cdn1.iconfinder.com/data/icons/streamline-keyboard/60/cell-8-2-240.png" alt="Slightly Down" style="width:25px;height:25px"> </h5>
   <br>
   <br>
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTfotxCjrIv9j0qa55Q-vH95X329v9aKjBOr2-shLoCZ-kYYTgdp-ittdvGApMyYdaERfl6gM6HGBEA/pubchart?oid=445395274&amp;format=interactive"></iframe>
