@@ -1,6 +1,7 @@
 
 
 # USA Covid-19 Data 
+## Note: CovidTracking's API has been depreciated. This site is no longer being updated because of this
 <!-- Bidvertiser2033388 -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167862552-1"></script>
